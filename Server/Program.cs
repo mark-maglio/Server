@@ -9,7 +9,7 @@ namespace Server
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entr y point for the application.
         /// </summary>
         [STAThread]
         static void Main()
